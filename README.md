@@ -23,6 +23,7 @@ This project is a 2D Computational Fluid Dynamics (CFD) investigation evaluating
 ## Repository Files
 * `plot_polars.py` — Python post-processing script using `matplotlib` and `numpy` to generate dual-panel polar plots with custom annotations and scaling.
 * `NACA2412_Aerodynamic_Polars.png` — Exported high-resolution figure illustrating $C_L$ and $C_D$ trends vs. $\alpha$.
+* `x degrees` - Graphs from `Anysis` for x degree. Includes contours of Static Pressure[Pa], scaled residuals, cd-rplot. and cl-rplot.
 * `README.md` — Technical project summary and aerodynamic performance overview.
 
 ## Tech Stack & Tools Used
